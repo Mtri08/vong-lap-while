@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vong lap while", "vong lap while\vong lap while.vcxproj", "{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Debug|x64.ActiveCfg = Debug|x64
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Debug|x64.Build.0 = Debug|x64
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Debug|x86.Build.0 = Debug|Win32
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Release|x64.ActiveCfg = Release|x64
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Release|x64.Build.0 = Release|x64
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Release|x86.ActiveCfg = Release|Win32
+		{2B71CF5E-7D52-45E4-8AF7-1884124EBFEA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC54E3C-5895-4E02-85C0-66E40881BB57}
+	EndGlobalSection
+EndGlobal
